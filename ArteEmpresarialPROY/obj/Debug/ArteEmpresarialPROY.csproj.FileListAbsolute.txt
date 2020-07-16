@@ -1,0 +1,90 @@
+c:\users\ariel torres\documents\visual studio 2015\Projects\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\ArteEmpresarialPROY.exe.config
+c:\users\ariel torres\documents\visual studio 2015\Projects\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\ArteEmpresarialPROY.exe
+c:\users\ariel torres\documents\visual studio 2015\Projects\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\ArteEmpresarialPROY.pdb
+c:\users\ariel torres\documents\visual studio 2015\Projects\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.csprojResolveAssemblyReference.cache
+c:\users\ariel torres\documents\visual studio 2015\Projects\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmMenu.resources
+c:\users\ariel torres\documents\visual studio 2015\Projects\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.Properties.Resources.resources
+c:\users\ariel torres\documents\visual studio 2015\Projects\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.csproj.GenerateResource.Cache
+c:\users\ariel torres\documents\visual studio 2015\Projects\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.exe
+c:\users\ariel torres\documents\visual studio 2015\Projects\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.pdb
+C:\Users\Ariel Torres\Documents\Visual Studio 2015\Projects\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmUsuarios.resources
+C:\Users\Ariel Torres\Documents\Visual Studio 2015\Projects\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmClientes.resources
+C:\Users\Ariel Torres\Documents\Visual Studio 2015\Projects\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmVentas.resources
+C:\Users\Ariel Torres\Documents\Visual Studio 2015\Projects\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmArticulos.resources
+C:\Users\Ariel Torres\Documents\Visual Studio 2015\Projects\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmLogin.resources
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\ArteEmpresarialPROY.exe.config
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.exe
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.pdb
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\ArteEmpresarialPROY.exe
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\ArteEmpresarialPROY.pdb
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.csprojResolveAssemblyReference.cache
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmArticulos.resources
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmClientes.resources
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmLogin.resources
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmMenu.resources
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmUsuarios.resources
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmVentas.resources
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.Properties.Resources.resources
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.csproj.GenerateResource.Cache
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\EntityFramework.dll
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\EntityFramework.SqlServer.dll
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\EntityFramework.xml
+F:\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\ArteEmpresarialPROY.exe.config
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.exe
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.pdb
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\ArteEmpresarialPROY.exe
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\ArteEmpresarialPROY.pdb
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\EntityFramework.dll
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\EntityFramework.xml
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.csprojResolveAssemblyReference.cache
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmArticulos.resources
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmClientes.resources
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmLogin.resources
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmMenu.resources
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmUsuarios.resources
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmVentas.resources
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.Properties.Resources.resources
+C:\Users\Ariel Torres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.csproj.GenerateResource.Cache
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\ArteEmpresarialPROY.exe.config
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\ArteEmpresarialPROY.exe
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\ArteEmpresarialPROY.pdb
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\EntityFramework.dll
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\EntityFramework.xml
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.csprojAssemblyReference.cache
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmArticulos.resources
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmClientes.resources
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmLogin.resources
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmMenu.resources
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmUsuarios.resources
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmVentas.resources
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.Properties.Resources.resources
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.csproj.GenerateResource.cache
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.csproj.CoreCompileInputs.cache
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.csproj.CopyComplete
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.exe
+C:\Users\ArielTorres\Desktop\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.pdb
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\ArteEmpresarialPROY.exe.config
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\ArteEmpresarialPROY.exe
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\ArteEmpresarialPROY.pdb
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\EntityFramework.dll
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\EntityFramework.SqlServer.dll
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\EntityFramework.xml
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\bin\Debug\EntityFramework.SqlServer.xml
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.csprojAssemblyReference.cache
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmArticulos.resources
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmClientes.resources
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmLogin.resources
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmMenu.resources
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmUsuarios.resources
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.frmVentas.resources
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.Properties.Resources.resources
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.csproj.GenerateResource.cache
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.csproj.CoreCompileInputs.cache
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.csproj.CopyComplete
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.exe
+E:\ArielTorres\Documents\Clases\Prog. Negocios\ArteEmpresarialPROY\ArteEmpresarialPROY\obj\Debug\ArteEmpresarialPROY.pdb
